@@ -4,7 +4,7 @@ A single-server **FIFO queue simulation** for modelling customer wait times, ser
 
 ---
 
-## ✨ Features
+## Features
 
 - **Configurable Parameters** — set number of customers, arrival time range, and service time range
 - **Uniform Random Distributions** — inter-arrival and service times drawn from user-defined uniform distributions
